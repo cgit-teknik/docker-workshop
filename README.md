@@ -1,4 +1,4 @@
-# docker-workshop
+# Docker Workshop
 Repository for the resources used in our docker workshop
 
 
