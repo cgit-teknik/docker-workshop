@@ -6,7 +6,9 @@ Repository for the resources used in our docker workshop
 Useful resources when working with or learning docker.
 
 ### Installation
-https://docs.docker.com/engine/install/
+Docker Engine: https://docs.docker.com/engine/install/
+
+Nvidia Container Runtime: https://docs.docker.com/config/containers/resource_constraints/#gpu
 
 ### Docker CLI cheat sheet
 Concise sheet, only essentials: https://devhints.io/docker
@@ -19,5 +21,6 @@ Dockerhub repository: https://hub.docker.com/search?q=
 Nvidia NGC: https://catalog.ngc.nvidia.com/
 
 
-#### Awesome docker
-https://github.com/veggiemonk/awesome-docker
+
+#### Docker Resources
+Awesome Docker: https://github.com/veggiemonk/awesome-docker
